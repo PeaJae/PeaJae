@@ -1,6 +1,6 @@
 ### Hello! My name is Jeanette Procell
 
-<h1>Hi, I'm Jeanette, an <a href="https://linkedin.com/in/PeaJae">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jeanette, an <a href="https://linkedin.com/injae-p-10720b29a//>IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
